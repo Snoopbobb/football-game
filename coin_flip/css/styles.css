@@ -1,0 +1,26 @@
+body {
+	background-color: lightgreen;
+	text-align: center;
+}
+
+img {
+	width: 200px;
+	height: 200px;
+}
+
+h4 {
+	display: inline-block;
+	padding-right: 20px;
+}
+
+.button {
+	display: block;
+	width: 150px;
+	height: 60px;
+	margin: 0 auto;
+	background-color: lightblue;
+	color: darkgreen;
+	border-radius: 30px;
+	border: 2px solid darkgreen;
+	font-size: 1.5em;
+}
